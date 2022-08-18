@@ -20,6 +20,7 @@ discriminator:
     tng: '#/components/schemas/PaymentResponseAlipayPlusSource'
     afterpay: '#/components/schemas/PaymentResponseAfterPaySource'
     mbway: '#/components/schemas/PaymentResponseMbwaySource'
+    multibanco: '#/components/schemas/PaymentResponseMultibancoSource'
 required:
   - type
 

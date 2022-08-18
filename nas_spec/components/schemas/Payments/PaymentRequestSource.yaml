@@ -27,6 +27,7 @@ discriminator:
     qpay: '#/components/schemas/PaymentRequestQPaySource'
     afterpay: '#/components/schemas/PaymentRequestAfterPaySource'
     mbway: '#/components/schemas/PaymentRequestMbwaySource'
+    multibanco: '#/components/schemas/PaymentRequestMultibancoSource'
 required:
   - type
 properties:
