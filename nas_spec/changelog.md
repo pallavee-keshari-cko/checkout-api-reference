@@ -17,7 +17,9 @@
 | 2022/07/20 | Added `knet`, `giropay`, `bancontact`, `eps`, `p24`, and `multibanco` to Hosted Payments and Payment Links.           |
 | 2022/07/19 | Updated example for Platforms payout schedules from `currency` to `GBP` and `ISO`                                     |
 | 2022/07/19 | Update WeChat Pay NAS structure                                                                                       |
-| 2022/07/14 | Add Sofort NAS Request and Response source.                                                                           |
+| 2022/07/14 | Add Sofort NAS Request and Response source.  
+
+| 2022/08/19 | Add Multibanco NAS Request and Response source.                                                                           |
 | 2022/07/14 | Add `locale` property to Get Payment Link details response                                                            |
 | 2022/07/14 | Added `customer`, `description`, `billing descriptor`, `shipping`, and `items` objects to Capture requests            |
 | 2022/07/13 | Added fields for Level 2 and Level 3 data.                                                                            |
